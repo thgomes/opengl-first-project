@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/first_project.dir/main.cpp.o -o first_project   -L/home/th/Codes/MyProjects/LearnOpenGL/first_project/libs/lib  -Wl,-rpath,/home/th/Codes/MyProjects/LearnOpenGL/first_project/libs/lib libglad.a -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -ldl 

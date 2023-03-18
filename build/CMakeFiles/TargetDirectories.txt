@@ -1,0 +1,4 @@
+/home/th/Codes/MyProjects/LearnOpenGL/first_project/build/CMakeFiles/glad.dir
+/home/th/Codes/MyProjects/LearnOpenGL/first_project/build/CMakeFiles/first_project.dir
+/home/th/Codes/MyProjects/LearnOpenGL/first_project/build/CMakeFiles/edit_cache.dir
+/home/th/Codes/MyProjects/LearnOpenGL/first_project/build/CMakeFiles/rebuild_cache.dir
